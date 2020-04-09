@@ -1,0 +1,49 @@
+The Battle of Neighborhoods - Coursera Capstone Project
+
+
+1) Introduction :
+
+
+As the current Pandemic of the Covid-19 which is affecting the whole world, many people are admiited to the hospital for fighting against 
+the Covid-19  which is a cruicial thing for the surivial of the people. So at the present situation the restaurant or the mall doesnt matters.
+What matters is the hospital.
+
+This Project attempts to compare the hospitals in these both cities and compare it with the population to determine whether these
+hospitals are sufficients for the patient in these neighbohrhood 
+
+
+The assumption and factor considered for this project is that each hospitals admit the same number of patients
+
+So what the problems aims is to 
+
+a) compare the population of the bourough in the city of newyork and toronto
+
+b) using four square compare the no of hospitals in the city of newyork and toronto
+
+c) compare the number of covid cases in the city of newyork and toronto 
+
+
+This aims to see whether the population and hospital have any effect on the number of Covid-19 cases in these cities
+
+
+
+
+2) Data:
+
+a)Population of the Bourough in New York City : https://www.citypopulation.de/en/usa/newyorkcity/
+
+b) Population of the Borough in Toronto City  : for this only the east, central, downtown and west toronto is considered. An attempt will be made to see whether the population of 
+these cities can be scrapped from the web, when in case it is not presented a table will be created which mentions these population.
+
+c)Geo-spacial data of the New York and Toronto city  to get a better understanding of the neighborhoods in it and their corresponding locations in the Folium map would make 
+certain things clear for the Project. This will be achieved using the acquired data and visualize the same using Choropleth maps
+
+d) Finally the data going to be collected/acquired from the Foursquare API about the various hopsitals in each neighborhood of New York city  
+which will be used for acquiring the information regarding same for all the venues of each neighborhoodof the toronto cities
+
+
+
+
+
+ 
+
